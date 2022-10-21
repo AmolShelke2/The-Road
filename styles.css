@@ -268,7 +268,7 @@ html {
   }
   40% {
     transform: translateZ(-500rem) translateX(150rem);
-    opacity: 0.6;
+    opacity: 0.8;
   }
   70% {
     transform: translateZ(-1500rem) translateX(800rem);
