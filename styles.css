@@ -527,8 +527,7 @@ html {
   justify-content: space-between;
 }
 
-.input-group,
-.input-groups {
+.input-group .input-groups {
   width: 48.5%;
 }
 
@@ -571,10 +570,14 @@ html {
   border-radius: 0.5rem;
   border: none;
   cursor: pointer;
-  transition: background-color 0.3s;
+  transition: background-color 0.4s;
 }
 
 .form-btn:hover {
+  color: var(--grey-color);
+}
+
+.input-group textarea {
   max-height: 15rem;
   max-width: 100%;
 }
