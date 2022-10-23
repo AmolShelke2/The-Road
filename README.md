@@ -14,3 +14,4 @@ it's a website for travelers.
 [The Road](https://the-road-one.vercel.app/)
 
 # Preview.
+![192 168 0 107_5500_index html_(Nest Hub Max)](https://user-images.githubusercontent.com/95171638/197399008-63b5efc5-39f8-41c8-b911-b69ae04204b4.png)
